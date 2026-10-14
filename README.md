@@ -16,7 +16,7 @@ Welcome to the official repository of **SFhub** for Roblox **Unwavering Soul**! 
 Copy this single line of code and paste it into your executor (Delta, Codex, Solara, Xeno):
 
 ```lua
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SFhubTeam/Unwavering-Soul-Hitbox-Expander/refs/heads/main/script.lua"))()
 ```
 
 ---
